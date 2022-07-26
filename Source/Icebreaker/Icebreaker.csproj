@@ -351,7 +351,6 @@
     <Content Include="Helpers\AdaptiveCards\UnrecognizedInputAdaptiveCard.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="libman.json" />
     <Content Include="Content\welcome-dialog.png" />
     <Content Include="Content\styles.css" />
     <Content Include="Content\tour.html" />
